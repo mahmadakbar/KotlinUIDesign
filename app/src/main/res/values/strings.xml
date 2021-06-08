@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">CookLab</string>
+    <string name="title">CookLab</string>
+    <string name="navigation_home">Home</string>
+    <string name="navigation_list">Recipe List</string>
+    <string name="navigation_search">Search</string>
+    <string name="navigation_profile">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="judul_masakan">Judul Masakan</string>
+    <string name="by">by</string>
+    <string name="nama_user">nama_user</string>
+    <string name="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Convallis posuere morbi leo urna molestie. Tincidunt augue interdum velit euismod in pellentesque massa placerat. Posuere sollicitudin aliquam ultrices sagittis orci a. Consectetur adipiscing elit ut aliquam purus sit amet.</string>
+    <string name="images_food">images food</string>
+    <string name="rattings">5.0</string>
+    <string name="views_count">1.234</string>
+    <string name="comment_count">375</string>
+    <string name="share_count">454</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="bahan">Bahan</string>
+    <string name="instruksi">Instruksi</string>
+    <string name="resep_hari_ini">Resep Hari Ini</string>
+    <string name="favorite_minggu_ini">Favorite Minggu Ini</string>
+    <string name="name">Ahmad Akbar Maulana</string>
+    <string name="username">"@mahmadakbar"</string>
+    <string name="post">post</string>
+    <string name="zero">0</string>
+    <string name="favorite_count">230</string>
+    <string name="post_empty">Anda Belum Memiliki Postingan</string>
+    <string name="setting">Setting</string>
+</resources>

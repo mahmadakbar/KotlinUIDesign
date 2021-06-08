@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="cyanite">#0abde3</color>
+    <color name="line">#B1BCBE</color>
+    <color name="purple_700">#574b90</color>
+    <color name="coastal">#dff9fb</color>
+    <color name="ballerina">#c8d6e5</color>
+    <color name="teal_200">#dff9fb</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="amour">#ff6b6b</color>
+    <color name="leaf">#feca57</color>
+    <color name="rosy">#f7d794</color>
+    <color name="rosy2">#fcf3de</color>
+    <color name="underline">#c8d6e5</color>
+
+    <color name="mainApp">#48dbfb</color>
+
+</resources>
